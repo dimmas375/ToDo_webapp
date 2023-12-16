@@ -1,0 +1,3 @@
+Push the code to Git
+Publish the app to Streamlit
+Buy some food
